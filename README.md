@@ -3,3 +3,5 @@
 - Luego en la lista la extendemos para agregar 6, 7 como no los indica en requerimiento
 - Finalizamos sumando toda la lista con sus modificaciones
 
+
+![Texto alternativo para la imagen](imagen_lista.png)
